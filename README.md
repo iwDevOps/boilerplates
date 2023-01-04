@@ -1,4 +1,4 @@
-# iwDevOps's Boilerplates
+# iwDevOps Boilerplates
 
 My template collection for various tools and technologies. 
 In this repository you'll find templates and configuration files for Linux and Windows tools and technologies. 
